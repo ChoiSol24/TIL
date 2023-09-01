@@ -1,7 +1,4 @@
-# TIL (2023.01.01 ~ )
-## Programmers 코테 연습 (Python)
-### Lv.0 (100% Finish)
-### Lv.1 (67% Finish)
-
-## Java 기초 복습 
-### (2023.01 ~ 02 (예정))
+# TIL 
+## 빅데이터 분석 기사 (2023.09.01 ~ )
+### 필기 
+링크 : https://www.notion.so/084db081e8cd49189987268785c1d6d5?pvs=4
